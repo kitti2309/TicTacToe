@@ -1,5 +1,5 @@
-var TicTacToe=[[2,1,2],
-               [2,1,2],
+var TicTacToe=[[1,2,2],
+               [2,1,1],
                [2,2,1]];
 function VerifyTicTacTeo(TicTacToe){
     let check =[];
